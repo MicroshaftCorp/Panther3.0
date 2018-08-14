@@ -1,6 +1,5 @@
-# scratch-gui
-#### Scratch GUI is a set of React components that comprise the interface for creating and running Scratch 3.0 projects
-
+# scratch 3.0 Panther
+#### Scratch 3.0 Mod
 [![Build Status](https://travis-ci.com/LLK/scratch-gui.svg?token=Yfq2ryN1BwaxDME69Lnc&branch=master)](https://travis-ci.com/LLK/scratch-gui)
 [![Greenkeeper badge](https://badges.greenkeeper.io/LLK/scratch-gui.svg)](https://greenkeeper.io/)
 
