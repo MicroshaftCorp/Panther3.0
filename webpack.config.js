@@ -89,16 +89,6 @@ const base = {
     plugins: []
 };
 
-module.exports = [
-    // to run editor examples
-    defaultsDeep({}, base, {
-        entry: {
-            'lib.min': ['react', 'react-dom'],
-            'gui': './src/playground/index.jsx',
-            'blocksonly': './src/playground/blocks-only.jsx',
-            'compatibilitytesting': './src/playground/compatibility-testing.jsx',
-            'player': './src/playground/player.jsx'
-        },
         output: {
             path: path.resolve(__dirname, 'build'),
             filename: '[name].js'
